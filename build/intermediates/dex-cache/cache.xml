@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_55769c15e36610f1a51f45310b34d2f00fd33300.jar" />
+    </item>
+    <item
+        jar="/Users/anthonymatsas/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.2/6555e7c45f5db0006823731b2ddb536d481e11d1/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6555e7c45f5db0006823731b2ddb536d481e11d1">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2_d661d13bd2fbadca560eb371a52120bb31841da7.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_820b76f9602d30173743ee65159fd761b87bf711.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_41500681538bcce9292d65de4a49fed6f37df567.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_845e9d02f97c644765bc4307f423e23fe96f1254.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_449d25de3c768ecf0fb9323f3a402f2ccfc40dbe.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_fe71f8a3dc49df2f413b202c8667c05d30b8411d.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_1ffa2d3fa273baee2f65f72a0f3dbc72e4dcb22a.jar" />
+    </item>
+    <item
+        jar="/Users/anthonymatsas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_0b5469f0b764891ef919c16c7bf7593e611850a6.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_4e6043e229fc237752014754216ef874448112a0.jar" />
+    </item>
+    <item
+        jar="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Volumes/MATSAS/SCHOOL/Spring 16/Mobile Dev/Final/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_473ac806478bd502aa4504af6376a42f3426cea2.jar" />
+    </item>
+
+</items>
